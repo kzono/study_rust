@@ -68,5 +68,21 @@ int main(){
 - [Rust](./srcs/ranged_for/rust/main.rs)
 
 ## ラムダ式
-## map/reduce/filter
-- 
+map/reduce/filter は便利。これらはいろんな順番で処理を
+組み合わせることができる。（関数合成、第１級オブジェクト）
+
+これらはラムダ式（無名関数）を使って記述する。
+
+
+### map
+
+- [Rust]()
+- [C++]()
+- [Java]()
+- [Javascript]()
+### reduce
+
+### filter
+
+
+## map/reduce/filter の組合せ
