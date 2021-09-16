@@ -1,0 +1,1 @@
+/mnt/HGSTHDD4TiB/langs/rust/study_rust/adder/target/debug/integration_test-7768be49239c3242: /mnt/HGSTHDD4TiB/langs/rust/study_rust/adder/src/lib.rs /mnt/HGSTHDD4TiB/langs/rust/study_rust/adder/tests/integration_test.rs
