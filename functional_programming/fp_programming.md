@@ -65,6 +65,7 @@ int main(){
 - [C++](./srcs/ranged_for/c++/main.cpp)
 - [Java](./srcs/ranged_for/java/Main.java)
 - [Javascript](srcs/ranged_for/javascript/for_of.js)
+- [Rust](./srcs/ranged_for/rust/main.rs)
 
 ## ラムダ式
 ## map/reduce/filter
