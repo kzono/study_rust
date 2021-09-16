@@ -47,7 +47,20 @@
   - 非関数型のコード
 
 # オブジェクト指向言語に取り入れられた機能
-## 拡張 for文
+## 範囲for文/拡張 for文
+off-by-one error を未然に防げる。
+
+```c++
+#include <iostream>
+int main(){
+    int ary[] = {1, 2, 3};
+
+    // off-by-one-error の例
+    for(int i = 0; i<= 3; i++){
+        std::cout << ary[i] << std::endl; 
+    }
+}
+```
 
 ## ラムダ式
 ## map/reduce/filter
