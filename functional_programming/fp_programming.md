@@ -47,7 +47,8 @@
   - 非関数型のコード
 
 # オブジェクト指向言語に取り入れられた機能
-- ラムダ式
-- 拡張 for文
-- map/reduce/filter
+## 拡張 for文
+
+## ラムダ式
+## map/reduce/filter
 - 
